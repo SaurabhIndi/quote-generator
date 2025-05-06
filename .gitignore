@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+env/
+venv/
+ENV/
+
+# Output files
+quotes.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+*.log
+*.DS_Store
+.streamlit/
